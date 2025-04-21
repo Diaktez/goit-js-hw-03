@@ -1,2 +1,2 @@
-# goit-js-hw-03
-JS DZ 3
+# goit-js-hw-01
+JS home work 1
